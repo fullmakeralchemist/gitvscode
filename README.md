@@ -1,6 +1,8 @@
-# Git en Raspberry Pi
+# Guía de instalación de Git y Visual Studio Code en Raspberry Pi
 
-## 1.Instalar Git.
+## Git en Raspberry Pi
+
+### 1.Instalar Git.
 
 Lo que aprenderá en esta guía, es a instalar y utilizar el software de control de versiones de Git para trabajar en tus propios proyectos dentro de Raspberry.
 
@@ -21,7 +23,7 @@ sudo apt install git
 ```
 
 
-## 2.Configurando Git
+### 2.Configurando Git
 
 Lo primero que debemos hacer es ingresar a Git nuestra información. Esto es importante, ya que muchas personas pueden usar Git de forma colaborativa, por lo que es necesario saber quién realizó cambios en qué archivos. Puede usar su propio nombre de usuario y dirección de correo electrónico.
 Así que ingresaremos los siguientes comandos:
@@ -41,7 +43,7 @@ git config --global core.editor nano
 ```
 
 
-## 3.Creando nuestro primer proyecto
+### 3.Creando nuestro primer proyecto
 ¿Quieres empezar un nuevo proyecto? Tal vez sea un bot como Jarvis que te cuide en todo momento. Necesitará de un directorio en su computadora para todos sus archivos, así que lo primero que debe hacer es crear ese directorio.
 
 En la terminal, puede usar el comando ls (en lista el contenido del directorio actual) para revisar las carpetas y archivos.
@@ -142,7 +144,7 @@ git commit -am "add README.md"
 
 Esto confirma todos los cambios que ha realizado en el directorio en el repositorio de Git y agrega un mensaje que dice lo que hizo. El mensaje puede ser cualquier cosa en realidad, pero es mejor que sea bastante breve pero descriptivo de lo que ha cambiado.
 
-## 4.Trabajando con un Github
+### 4.Trabajando con un Github
 
 Ahora que sabe cómo hacer lo básico en Git, es hora de aprender a usarlo en todo su potencial: úselo para compartir su trabajo y colaborar con otros.
 
@@ -187,9 +189,9 @@ Si está trabajando en una rama diferente, escribiría:
 Para saber mas acerca de Git en Raspberry te recomiendo ir a [Getting started with Git](https://projects.raspberrypi.org/en/projects/getting-started-with-git).
 
 
-# Instalar Visual Studio Code en Raspberry.
+## Instalar Visual Studio Code en Raspberry.
 
-## 1.Instalación
+### 1.Instalación
 Thonny IDE (entorno de desarrollo integrado) incluido con la última versión del sistema operativo Raspberry Pi OS. Thonny viene con Python 3.7 integrado, por lo que no es necesario instalar nada.
 
 Como preferencia personal mi IDE favorito es VS CODE, para algunos proyectos como Apps en Flask, Bots y Tensorflow, me siento mas cómodo trabajando en la interfaz de VS.
