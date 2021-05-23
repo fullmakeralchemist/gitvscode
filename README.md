@@ -151,7 +151,7 @@ Ahora que tiene una cuenta, puede crear un repositorio de snitch-sniffer en GitH
 
 Asigne un nombre y una descripción al repositorio y haga clic en el botón Crear repositorio
 
-![gh-repo](https://user-images.githubusercontent.com/79243784/117558869-50849e80-b046-11eb-8b25-8f79b01289c4.png)
+![new-repo2](https://user-images.githubusercontent.com/79243784/119278291-ec3b1080-bbe9-11eb-87a6-f0c481f3e5b3.png)
 
 A continuación, debería aparecer una página de instrucciones.
 
