@@ -135,13 +135,7 @@ git commit -am "add README.md"
 
 Esto confirma todos los cambios que ha realizado en el directorio en el repositorio de Git y agrega un mensaje que dice lo que hizo. El mensaje puede ser cualquier cosa en realidad, pero es mejor que sea bastante breve pero descriptivo de lo que ha cambiado.
 
-<<<<<<< HEAD
 ### 4.Trabajando con un Github
-=======
-![GITCOMITT1MEDIUM](https://user-images.githubusercontent.com/79243784/117558855-3ba80b00-b046-11eb-8e4a-97494b1112c8.png)
-
-## 4.Trabajando con un Github
->>>>>>> 2131262a5444421557d837f877d7964891ee3d7c
 
 Ahora que sabe cómo hacer lo básico en Git, es hora de aprender a usarlo en todo su potencial: úselo para compartir su trabajo y colaborar con otros.
 
